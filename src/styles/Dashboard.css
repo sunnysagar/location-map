@@ -1,0 +1,88 @@
+/* Dashboard Container */
+.dashboard-container {
+   min-width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 20px;
+
+    display: flex;
+    flex-direction:column;
+    gap: 10px;
+
+}
+
+/* Heading */
+.dashboard-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #1976D2;
+    margin-bottom: 20px;
+}
+
+/* Dropdown */
+.filter-container {
+    margin: 20px;
+}
+
+.item-container{
+    width: 100%;
+    margin: 0 20%;
+    display: flex;
+   
+    align-items: center;
+
+    border: 2px solid #000;
+}
+
+/* Summary Cards */
+.summary-card {
+    background-color: #E3F2FD !important;
+    text-align: center;
+    padding: 15px;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+.summary-card:hover {
+    transform: scale(1.05);
+}
+
+.summary-icon {
+    color: #1565C0;
+    font-size: 2.5rem !important;
+}
+
+/* Bar Chart Cards */
+.chart-card {
+    padding: 20px;
+    transition: transform 0.2s ease-in-out;
+}
+
+.chart-card:hover {
+    transform: scale(1.03);
+}
+
+/* Most Reviewed & Incomplete Data */
+.highlight-card {
+    padding: 15px;
+    text-align: center;
+    background-color: #F1F8E9 !important;
+    transition: transform 0.2s ease-in-out;
+}
+
+.highlight-card:hover {
+    transform: scale(1.05);
+}
+
+.incomplete-card {
+    background-color: #FFEBEE !important;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Map */
+.map-container {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
