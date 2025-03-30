@@ -1,4 +1,4 @@
-# 🌍 SpotIQ - Intellegence Location Mapper
+#  SpotIQ - Intellegence Location Mapper
 
 This project is a **Node.js + Express API** that serves **location-based data** stored in **MongoDB**. It provides endpoints to **analyze, retrieve, and process location information**.
 
