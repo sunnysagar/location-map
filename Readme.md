@@ -30,6 +30,6 @@ npm install
 
 # 3️⃣ Setup Environment Variables
 touch .env
-``` MONGO_URI=mongodb+srv://your-connection-string
-    PORT=5000
-```
+MONGO_URI=mongodb+srv://your-connection-string
+PORT=5000
+
