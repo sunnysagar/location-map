@@ -17,7 +17,7 @@ import "leaflet/dist/leaflet.css";
 import { Restaurant, Hotel, LocalCafe, Park, Museum, FilterList } from "@mui/icons-material";
 import { motion } from "framer-motion";
 import "../styles/Dashboard.css";
-import { getCountPerType, getAverageRatings, getTopReviewed, getIncompleteData, getLocations } from "../services/locationServices";
+import { getCountPerType, getAverageRatings, getTopReviewed, getIncompleteData, getLocations } from "../services/LocationServices";
 
 // Custom Marker Icon
 const customIcon = new L.Icon({
