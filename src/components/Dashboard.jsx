@@ -61,7 +61,7 @@ const Dashboard = () => {
             {/* 🔍 Filter Dropdown */}
             <Grid container justifyContent="center" style={{ marginBottom: "20px" }}>
                 <FormControl variant="outlined" sx={{ minWidth: 400, backgroundColor: "#333", borderRadius: "8px",  color:"#fff"}}>
-                    <InputLabel style={{ color: "#fff" }}>Filter by Type</InputLabel>
+                    <InputLabel style={{ color: "#f25f0a" }}>Filter by Type</InputLabel>
                     <Select
                         value={selectedType}
                         onChange={(e) => setSelectedType(e.target.value)}
