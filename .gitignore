@@ -2,3 +2,6 @@ node_modules
 dist
 dist-ssr
 *.local
+
+# Ignore all .env files in the root of a project
+.env
