@@ -1,6 +1,7 @@
 # SpotIQ - Intellegence Location Mapper
 
 This project is a **React-based dashboard** that visualizes **location-based data**, including **valid points per type, average ratings, top-reviewed locations, and incomplete data**. The UI is built with **Material UI, Recharts, and Framer Motion** for smooth animations and modern styling.
+**APP URL** ```bash https://spot-iq.netlify.app/```
 
 ---
 
