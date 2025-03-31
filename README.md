@@ -4,22 +4,22 @@ This project is a **React-based dashboard** that visualizes **location-based dat
 
 ---
 
-## 🚀 Features
-✔ **Interactive Dashboard** with **charts and tables**.  
-✔ **Data Visualization** for **valid locations, ratings, and top-reviewed places**.  
-✔ **Dynamic Table** to list **locations with incomplete data**.  
-✔ **Responsive & Dark Theme** for a **modern look**.  
+##  Features
+ **Interactive Dashboard** with **charts and tables**.  
+**Data Visualization** for **valid locations, ratings, and top-reviewed places**.  
+**Dynamic Table** to list **locations with incomplete data**.  
+**Responsive & Dark Theme** for a **modern look**.  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **React.js** - Frontend Framework  
 - **Material UI (MUI)** - UI Components & Styling  
 - **Recharts** - Data Visualization  
 - **Framer Motion** - Smooth Animations  
 - **Axios** - API Requests  
 
-## ⚡ Setup & Installation
+##  Setup & Installation
 ```bash
 # 1️⃣ Clone the Repository
 git clone https://github.com/your-repo/frontend.git
